@@ -4,16 +4,12 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for comes here.
-
+This project aims to emulate a BMC system by running openBMC on qemu and controlling fan speed based on temperature.
 
 ## Tools
 In this section, you should mention the hardware or simulators utilized in your project.
 - Qemu
-- Gem5
-- ESP32
-- Raspberry Pi 3B
-- Temperature Sensor
+- OpenBMC
 
 
 ## Implementation Details
@@ -53,9 +49,8 @@ Using image is required.
 
 ## Related Links
 Some links related to your project come here.
- - [EDK II](https://github.com/tianocore/edk2)
- - [ESP32 Pinout](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)
- - [Django Doc](https://docs.djangoproject.com/en/5.0/)
+ - [OpenBMC](https://github.com/openbmc/openbmc)
+ - [Qemu](https://github.com/qemu/qemu)
 
 
 ## Authors
